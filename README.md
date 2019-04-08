@@ -182,3 +182,5 @@ Validator validator = schema.newValidator();
 StreamSource source = new StreamSource(InputSource);
 validator.validate(source);
 ```
+
+https://blog.csdn.net/raintungli/article/details/53486383
